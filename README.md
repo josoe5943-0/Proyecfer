@@ -48,3 +48,5 @@ Los cambios de la rama A se conservan mientras no haya conflictos con la rama B.
 ### COMANDO: git merge -s theirs <rama>
 Los cambios de la rama A se conservan mientras no haya conflictos con la rama B. En caso de conflicto, se prioriza lo que está en la rama A (la rama que queremos traer).
 
+### COMANDO: git pull-request
+Petición para hacer cambios en la rama main.
