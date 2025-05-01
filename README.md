@@ -14,3 +14,7 @@ Comando para generar un registro de un cambio.
 - `git commit -m <descripción>`
 - `git commit <file> -m <descripción>`
 
+### COMANDO: git log
+Comando para ver el historial de cambios.
+- Muestra los SHA en una sola línea: `git log --oneline`
+- Muestra todas las ramas: `git log --graph`
