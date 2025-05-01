@@ -26,3 +26,7 @@ Devuelve todas las ramas existentes.
 
 ### COMANDO: git branch <nomRama>
 Crea la rama a partir de la rama padre (en la que nos encontramos), los cambios que ocurren en una rama no afectan a otras hasta utilizar un merge.
+
+### COMANDO: git checkout <nomRama>
+Nos permite navegar entre las ramas.
+
