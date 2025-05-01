@@ -32,3 +32,7 @@ Nos permite navegar entre las ramas.
 
 ### COMANDO: git merge <nomRama>
 Obtiene los cambios de la rama indicada en el comando y los actualiza en la rama en la que nos encontramos.
+
+### COMANDO: git config
+- `--global user.name <nombreUsuario>`
+- `--global user.email <email>`
