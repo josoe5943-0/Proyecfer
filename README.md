@@ -18,3 +18,8 @@ Comando para generar un registro de un cambio.
 Comando para ver el historial de cambios.
 - Muestra los SHA en una sola línea: `git log --oneline`
 - Muestra todas las ramas: `git log --graph`
+
+## CLASE 2
+
+### COMANDO: git branch
+Devuelve todas las ramas existentes.
