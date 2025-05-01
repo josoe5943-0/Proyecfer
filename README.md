@@ -36,3 +36,6 @@ Obtiene los cambios de la rama indicada en el comando y los actualiza en la rama
 ### COMANDO: git config
 - `--global user.name <nombreUsuario>`
 - `--global user.email <email>`
+
+### Conflictos
+Cuando dos ramas modifican el mismo archivo, Git no sabe qué versión del archivo implementar.
