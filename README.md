@@ -39,3 +39,8 @@ Obtiene los cambios de la rama indicada en el comando y los actualiza en la rama
 
 ### Conflictos
 Cuando dos ramas modifican el mismo archivo, Git no sabe qué versión del archivo implementar.
+
+## CLASE 3
+
+### COMANDO: git merge -s ours <rama>
+Los cambios de la rama A se conservan mientras no haya conflictos con la rama B. En caso de conflicto, se prioriza lo que está en la rama B (la rama en la que nos encontramos).
