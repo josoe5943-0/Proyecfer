@@ -44,3 +44,7 @@ Cuando dos ramas modifican el mismo archivo, Git no sabe qué versión del archi
 
 ### COMANDO: git merge -s ours <rama>
 Los cambios de la rama A se conservan mientras no haya conflictos con la rama B. En caso de conflicto, se prioriza lo que está en la rama B (la rama en la que nos encontramos).
+
+### COMANDO: git merge -s theirs <rama>
+Los cambios de la rama A se conservan mientras no haya conflictos con la rama B. En caso de conflicto, se prioriza lo que está en la rama A (la rama que queremos traer).
+
