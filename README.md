@@ -30,3 +30,5 @@ Crea la rama a partir de la rama padre (en la que nos encontramos), los cambios 
 ### COMANDO: git checkout <nomRama>
 Nos permite navegar entre las ramas.
 
+### COMANDO: git merge <nomRama>
+Obtiene los cambios de la rama indicada en el comando y los actualiza en la rama en la que nos encontramos.
